@@ -1,1 +1,2 @@
-Branch 2 is a new branchgit
+Branch 2 is a new branch
+This branch is cool
