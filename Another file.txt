@@ -1,1 +1,2 @@
 random message that I wrote
+Another random message on the file
